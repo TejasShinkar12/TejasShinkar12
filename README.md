@@ -1,19 +1,55 @@
-# 💫 About Me:
-Hi there! 👋 I'm Tejas, a passionate final-year engineering student specializing in Artificial Intelligence 🤖 and Data Science 📊. My enthusiasm for mathematics ➕, technology 💻, and problem-solving 🔍 inspired me to pursue this exciting field. <br>Throughout my college journey, I've actively participated in hackathons 🎉 and led initiatives within college-level clubs 🏫. These experiences have not only honed my technical skills but also strengthened my teamwork 🤝 and leadership abilities 🎤.<br>Currently, I'm seeking internships 🌟 and full-time opportunities 💼 where I can further develop my professional skills while contributing to impactful projects 🌏.
+<h5 align="left">Hi there! 👋 I'm Tejas, a passionate final-year engineering student specializing in Artificial Intelligence 🤖 and Data Science 📊. My enthusiasm for mathematics ➕, technology 💻, and problem-solving 🔍 inspired me to pursue this exciting field.<br><br>Throughout my college journey, I've actively participated in hackathons 🎉 and led initiatives within college-level clubs 🏫. These experiences have not only honed my technical skills but also strengthened my teamwork 🤝 and leadership abilities 🎤.<br><br>Currently, I'm seeking internships 🌟 and full-time opportunities 💼 where I can further develop my professional skills while contributing to impactful projects 🌏.</h5>
 
+###
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejasshinkar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejasd.shinkar@gmail.com) 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TejasShinkar12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TejasShinkar12&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TejasShinkar12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<img align="right" height="200" src="https://kappa.lol/7jIdX"  />
 
----
-[![](https://visitcount.itsvg.in/api?id=TejasShinkar12&icon=0&color=0)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/TejasShinkar12/TejasShinkar12/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/TejasShinkar12/count.svg?"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasShinkar12&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=TejasShinkar12&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
